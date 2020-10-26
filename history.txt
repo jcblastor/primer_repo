@@ -1,5 +1,7 @@
 Esta historia de carlos para aprender git
 
-carlos 38 años nacido en Bolivia
+carlos 38 años nacido en Bolivia, 
+
+viviendo en Argentina
 
 hoy hablaremos de mi historia.
